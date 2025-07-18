@@ -1,5 +1,3 @@
-# Medical Store Management System
-
 This is a PHP-based project to manage a medical store. Features include:
 
 - Billing
